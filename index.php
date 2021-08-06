@@ -17,12 +17,12 @@
     <!-- metas -->
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <!--meta charset="utf-8"-->
-    <meta name="author" content="Emprende Perú">
+    <meta name="author" content="Emprende Perï¿½">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- title  -->
-    <title>Marketing Institucional - Universidad del Pacífico</title>
+    <title>Marketing Institucional - Universidad del PacÃ­fico</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="https://www.up.edu.pe/images/favicon.ico" type="image/vnd.microsoft.icon" />
@@ -115,38 +115,38 @@
                                             <ul>
                                                 <li><a target="_blank" href="http://bb.up.edu.pe/">Blackboard</a></li>
                                                 <li><a target="_blank" href="https://autoservicio2.up.edu.pe">Power Campus</a></li>
-                                                <li><a target="_blank" href="http://mail.up.edu.pe">Correo Electrónico</a></li>
+                                                <li><a target="_blank" href="http://mail.up.edu.pe">Correo Electrï¿½nico</a></li>
                                                 <li><a target="_blank" href="http://labvirtual.up.edu.pe/">Laboratorio virtual</a></li>
-                                                <li><a target="_blank" href="http://srvnetappup.up.edu.pe/guiatelefonica/BuscarDirectorioTelf.aspx">Directorio telefónico</a></li>
+                                                <li><a target="_blank" href="http://srvnetappup.up.edu.pe/guiatelefonica/BuscarDirectorioTelf.aspx">Directorio telefï¿½nico</a></li>
                                                 <li><a target="_blank" href="http://campusvirtual.up.edu.pe/Biblioteca/default.aspx?utm_source=CampusVirtual&utm_medium=banner&utm_campaign=Biblioteca">Biblioteca</a></li>
                                                 <li><a target="_blank" href="http://srvmicst.up.edu.pe/MicroStrategy/login/login.aspx">
-                                                Sistema de Información para la Gestión Universitaria (SIGU)</a></li>
+                                                Sistema de Informaciï¿½n para la Gestiï¿½n Universitaria (SIGU)</a></li>
                                                 <li><a target="_blank" href="http://srvcom02.up.edu.pe:9080/siserpvi/">Paneles Virtuales</a></li>
-                                                <li><a target="_blank" href="http://srvweb.up.edu.pe/si/index.jsp">Sistema de Información Institucional (SII)</a></li>
+                                                <li><a target="_blank" href="http://srvweb.up.edu.pe/si/index.jsp">Sistema de Informaciï¿½n Institucional (SII)</a></li>
                                                 <li><a target="_blank" href="http://apps.up.edu.pe/convenios">Convenios</a></li>
                                                 <li><a target="_blank" href="http://pcampusportal:85/_layouts/ReportServer/RSViewerPage.aspx?rv%3aRelativeReportUrl=%2fReportes+de+PowerCAMPUS%2fUNIVERSIDAD+DEL+PACIFICO%2f12+-+Administrativos%2fAuditoria%2fReporte+de+auditoria+web.rdl&Source=http%3a%2f%2fpcampusportal%3a85%2fReportes%2520de%2520PowerCAMPUS%2fForms%2fAllItems.aspx%3fRootFolder%3dhttp%253a%252f%252fpcampusportal%253a85%252fReportes%2520de%2520PowerCAMPUS%252fUNIVERSIDAD%2520DEL%2520PACIFICO%252f12%2520%252d%2520Administrativos%252fAuditoria%26FolderCTID%3d0x012000E7576CD61E326440BE3AEEA24E02FCD2&DefaultItemOpen=0">Auditoria</a></li>
-                                                <li><a target="_blank" href="http://vri.up.edu.pe/">Servicios para la investigación</a></li>
+                                                <li><a target="_blank" href="http://vri.up.edu.pe/">Servicios para la investigaciï¿½n</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Información académica</a>
+                                        <li><a href="#">Informaciï¿½n acadï¿½mica</a>
                                             <ul>
                                                 <li><a target="_blank" href="http://autoservicio1.up.edu.pe/ss/CourseManager/Gradebook.aspx?view=1">Calificaciones</a></li>
                                                 <li><a target="_blank" href="http://autoservicio1.up.edu.pe/ss/CourseManager/Gradebook.aspx?view=4">
                                                 Asistencia</a></li>
-                                                <li><a target="_blank" href="http://autoservicio1.up.edu.pe/ss/UP/EvaluacionDocente/Forms/UPEvaluacionDocenteResultadosHome.aspx">Resultados de evaluación docente</a></li>
+                                                <li><a target="_blank" href="http://autoservicio1.up.edu.pe/ss/UP/EvaluacionDocente/Forms/UPEvaluacionDocenteResultadosHome.aspx">Resultados de evaluaciï¿½n docente</a></li>
                                                 <li><a target="_blank" href="http://autoservicio1.up.edu.pe/ss/Records/ClassSchedule.aspx">Horarios</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">Servicios</a>
                                             <ul>
-                                                <li><a target="_blank" href="http://campusv.up.edu.pe/sisisemail/_data/2019/5692/Calendario_Academico_Regular_2019.pdf">Calendario académico 2019</a></li>
-                                                <li><a target="_blank" href="http://campusv.up.edu.pe/sisisemail/_data/2019/5635/Calendario Académico Regular 2020.pdf">Calendario académico 2020</a></li>
-                                                <li><a target="_blank" href="https://campusvirtual.up.edu.pe/cafeteria/default.aspx">Cafetería</a></li>
-                                                <li><a target="_blank" href="http://intranet.up.edu.pe:8080/site_cumpleanos/">Cumpleaños</a></li>
+                                                <li><a target="_blank" href="http://campusv.up.edu.pe/sisisemail/_data/2019/5692/Calendario_Academico_Regular_2019.pdf">Calendario acadï¿½mico 2019</a></li>
+                                                <li><a target="_blank" href="http://campusv.up.edu.pe/sisisemail/_data/2019/5635/Calendario Acadï¿½mico Regular 2020.pdf">Calendario acadï¿½mico 2020</a></li>
+                                                <li><a target="_blank" href="https://campusvirtual.up.edu.pe/cafeteria/default.aspx">Cafeterï¿½a</a></li>
+                                                <li><a target="_blank" href="http://intranet.up.edu.pe:8080/site_cumpleanos/">Cumpleaï¿½os</a></li>
                                                 <li><a target="_blank" href="http://campusvirtual.up.edu.pe/documentos/default.aspx">Documentos institucionales</a></li>
                                                 <li><a target="_blank" href="http://www.up.edu.pe/prensa/eventos/">Agenda</a></li>
-                                                <li><a target="_blank" href="http://campusvirtual.up.edu.pe/gestion_personas">Gestión de Personas</a></li>
-                                                <li><a target="_blank" href="http://portalgiit.up.edu.pe">Gestión de la Información e Innovación Tecnológica 
+                                                <li><a target="_blank" href="http://campusvirtual.up.edu.pe/gestion_personas">Gestiï¿½n de Personas</a></li>
+                                                <li><a target="_blank" href="http://portalgiit.up.edu.pe">Gestiï¿½n de la Informaciï¿½n e Innovaciï¿½n Tecnolï¿½gica 
                                                 (GIIT)</a></li>
                                                 <li><a target="_blank" href="http://www1.up.edu.pe/webmarketing/">Marketing Institucional</a></li>
                                             </ul>
@@ -155,7 +155,7 @@
                                             <ul>
                                                 <li><a target="_self" href="docentes/contacto-pregrado.html">Pregrado - PRE</a></li>
                                                 <li><a target="_self" href="docentes/contacto-postgrado.html">Postgrado - EPG</a></li>
-                                                <li><a target="_self" href="docentes/contacto-educacion-ejecutiva.html">Educación Ejecutiva - CEE</a></li>
+                                                <li><a target="_self" href="docentes/contacto-educacion-ejecutiva.html">Educaciï¿½n Ejecutiva - CEE</a></li>
                                                 <li><a target="_self" href="docentes/contacto-centro-de-idiomas.html">Centro de Idiomas - CIDUP</a></li>
                                                 <li><a target="_self" href="docentes/contacto-escuela-pre-universitaria.html">Escuela Pre Universitaria - EPU</a></li>
                                             </ul>
@@ -165,13 +165,13 @@
                                                 <li><a target="_blank" href="http://www.up.edu.pe/prensa/blogs/Paginas/default.aspx">Blogs UP</a></li>
                                                 <li><a target="_blank" href="http://www.up.edu.pe/aplicaciones/boletines/peruanito/default.aspx">El Peruanito 2.0</a></li>
                                                 <li><a target="_blank" href="http://revistas.up.edu.pe/index.php/apuntes/index">Apuntes Revista de Ciencias Sociales</a></li>
-                                                <li><a target="_blank" href="http://www.up.edu.pe/aplicaciones/boletines/emprendeup/">Boletín Emprende UP</a></li>
+                                                <li><a target="_blank" href="http://www.up.edu.pe/aplicaciones/boletines/emprendeup/">Boletï¿½n Emprende UP</a></li>
                                                 <li><a target="_blank" href="http://www.up.edu.pe/investigacion-centros/fondo-editorial/">Fondo Editorial</a></li>
                                                 <li><a target="_blank" href="http://www.up.edu.pe/prensa/Paginas/default.aspx">Sala de Prensa</a></li>
                                                 <li><a target="_blank" href="https://campusvirtual.up.edu.pe/documentos/default.aspx">Documentos institucionales</a></li>
                                                 <li><a target="_blank" href="http://www.youtube.com/user/UPacificoUP/videos">Videoteca</a></li>
                                                 <li><a target="_blank" href="http://www.estudiosindianos.org/">Proyecto Estudios Indianos</a></li>
-                                                <li><a target="_blank" href="http://defensoriauniversitaria.up.edu.pe">Defensoría Universitaria</a></li>
+                                                <li><a target="_blank" href="http://defensoriauniversitaria.up.edu.pe">Defensorï¿½a Universitaria</a></li>
                                             </ul>
                                         </li>
                                         <li></li>
@@ -227,7 +227,7 @@
         <div class="container">
             <div class="text-center section-heading">
                 <h2>Marketing Institucional</h2>
-                <p class="width-85 sm-width-75 xs-width-95">El área de Marketing Institucional es responsable de la construcción, consolidación y sostenimiento del posicionamiento de la Universidad del Pacífico, buscando el cumplimiento de los objetivos de imagen y marca tanto de cada una de las Facultades y carreras, así como también de las Unidades Institucionales, con una visión estratégica integrada.</p>
+                <p class="width-85 sm-width-75 xs-width-95">El ï¿½rea de Marketing Institucional es responsable de la construcciï¿½n, consolidaciï¿½n y sostenimiento del posicionamiento de la Universidad del Pacï¿½fico, buscando el cumplimiento de los objetivos de imagen y marca tanto de cada una de las Facultades y carreras, asï¿½ como tambiï¿½n de las Unidades Institucionales, con una visiï¿½n estratï¿½gica integrada.</p>
             </div>
 
             <div class="row margin-60px-bottom">
@@ -273,14 +273,14 @@
                 <div class="row">
 
                     <div class="col-lg-5 col-md-6 sm-margin-30px-bottom">
-                        <p class="margin-20px-top" style="color:#ffffff; font-size:18px; font-weight:bold;">Universidad del Pacífico</p>
-                        <p class="margin-15px-top" style="color:#ffffff;">Av. Salaverry 2020, Jesús María, Lima, Perú // Tel. +51 1 2190100</p>
+                        <p class="margin-20px-top" style="color:#ffffff; font-size:18px; font-weight:bold;">Universidad del Pacï¿½fico</p>
+                        <p class="margin-15px-top" style="color:#ffffff;">Av. Salaverry 2020, Jesï¿½s Marï¿½a, Lima, Perï¿½ // Tel. +51 1 2190100</p>
                     </div>
 
                     <div class="col-lg-3 col-md-6 sm-margin-30px-bottom"></div>
 
                     <div class="col-lg-4 col-md-6">
-                        <p class="margin-20px-top" style="color:#ffffff; font-size:18px; font-weight:bold;">Síguenos</p>
+                        <p class="margin-20px-top" style="color:#ffffff; font-size:18px; font-weight:bold;">Sï¿½guenos</p>
                         <div class="margin-15px-top footer-social-icons">
                             <ul>
                                 <li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
